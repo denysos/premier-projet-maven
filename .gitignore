@@ -2,3 +2,5 @@
 /target
 /.settings
 *.bug
+.classpath
+.factorypath
